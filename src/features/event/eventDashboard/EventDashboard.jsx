@@ -68,7 +68,7 @@ class EventDashboard extends Component {
     }
 
     render() {
-        const {events,isOpen} = this.state
+        const { isOpen} = this.state
         return (
                 <Grid>
                     <Grid.Column width={10}>
