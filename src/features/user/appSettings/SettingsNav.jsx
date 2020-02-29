@@ -1,9 +1,11 @@
 import React from 'react'
 
-export const SettingsNav = () => {
+const SettingsNav = () => {
     return (
         <div>
             <h1>Settings Nav</h1>
         </div>
     )
 }
+
+export default SettingsNav  
